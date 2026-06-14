@@ -11,7 +11,9 @@ body{
     font-family: Arial, sans-serif;
     background-color: hsl(0, 0%, 15%);
     border-radius: 15px;
+    width: 90%;
     max-width: 500px;
+    margin: auto;
     overflow: hidden;
 }
 #display{
@@ -34,7 +36,7 @@ body{
 }
 button{
     width: 100px;
-    height: 100px;
+    height: 1/1;
     border-radius: 50px;
     border: none;
     background-color: hsl(0, 0%, 30%);
